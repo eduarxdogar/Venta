@@ -1,0 +1,6 @@
+C:\Users\Cristian\source\repos\WsVenta\WsVenta\obj\Debug\netcoreapp3.0\WsVenta.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\WsVenta\WsVenta\obj\Debug\netcoreapp3.0\WsVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\WsVenta\WsVenta\obj\Debug\netcoreapp3.0\WsVenta.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\WsVenta\WsVenta\obj\Debug\netcoreapp3.0\WsVenta.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\WsVenta\WsVenta\obj\Debug\netcoreapp3.0\WsVenta.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\WsVenta\WsVenta\obj\Debug\netcoreapp3.0\WsVenta.MvcApplicationPartsAssemblyInfo.cache

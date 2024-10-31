@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E50341-6972-4D34-A7D9-C66CFDBAEE4A}|WsVenta\\WsVenta.csproj|c:\\users\\cristian\\source\\repos\\wsventa\\wsventa\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E50341-6972-4D34-A7D9-C66CFDBAEE4A}|WsVenta\\WsVenta.csproj|solutionrelative:wsventa\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E50341-6972-4D34-A7D9-C66CFDBAEE4A}|WsVenta\\WsVenta.csproj|c:\\users\\cristian\\source\\repos\\wsventa\\wsventa\\models\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E50341-6972-4D34-A7D9-C66CFDBAEE4A}|WsVenta\\WsVenta.csproj|solutionrelative:wsventa\\models\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E50341-6972-4D34-A7D9-C66CFDBAEE4A}|WsVenta\\WsVenta.csproj|c:\\users\\cristian\\source\\repos\\wsventa\\wsventa\\models\\request\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E50341-6972-4D34-A7D9-C66CFDBAEE4A}|WsVenta\\WsVenta.csproj|solutionrelative:wsventa\\models\\request\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\WsVenta\\Models\\Request\\ClienteRequest.cs",
+              "RelativeDocumentMoniker": "WsVenta\\Models\\Request\\ClienteRequest.cs",
+              "ToolTip": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\WsVenta\\Models\\Request\\ClienteRequest.cs",
+              "RelativeToolTip": "WsVenta\\Models\\Request\\ClienteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:35:29.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\WsVenta\\Models\\Response\\Respuesta.cs",
+              "RelativeDocumentMoniker": "WsVenta\\Models\\Response\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\WsVenta\\Models\\Response\\Respuesta.cs",
+              "RelativeToolTip": "WsVenta\\Models\\Response\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:44:31.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\WsVenta\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WsVenta\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Cristian\\source\\repos\\WsVenta\\WsVenta\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WsVenta\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwHkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:13:08.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
